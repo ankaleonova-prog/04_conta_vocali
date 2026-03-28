@@ -4,6 +4,14 @@ const word = 'javascript';
 
 
 // Dichiara la funzione qui.
+function getOnlyVowels (text) {
+
+    const vowels = ['a','e','i','o','u'];
+    for (let i=0;i<text.length;) {
+    const letter = text[i];
+
+}
+}
 
 
 // Invoca la funzione qui e stampa il risultato in console
